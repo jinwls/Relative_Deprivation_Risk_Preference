@@ -9,7 +9,7 @@
 
 ### Research Goal
 
-This study aims to define the reference group using demographic and geographic characteristics to measure relative position of individuals within the group, and specifically analyze the effect of relative deprivation on economic preferences(risk preference) and asset retention. Through this, we will be able to draw a conclusion on the causes and characteristics of risk behavior according to the level of relative deprivation.
+This notebook aims to define the reference group using demographic and geographic characteristics to measure relative position of individuals within the group, and specifically analyze the effect of relative deprivation on economic preferences(risk preference) and asset retention. Through this, we will be able to draw a conclusion on the causes and characteristics of risk behavior according to the level of relative deprivation.
 
 ### Expected Effectiveness
 

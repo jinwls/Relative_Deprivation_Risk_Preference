@@ -2,7 +2,7 @@
 
 ## The Effects of Individual Relative Deprivaiton on Risk Preference
 
-  Debt among young people in Korea has soared since the COVID-19 pandemic. Aggressive investment is one of the reason for the surge. The greater the social inequality, the more important the relative position and position, and the motivation to improve one's disadvantage is put first. With asset polarization accelerating today, young people prefer alternatives that can close social gaps in a short period of time, although the risk of loss is higher than investing in safe assets with low returns. This study considers the rapidly increasing household debt and risk assets to be caused by inequality, and aims to intensively analyze the impact of social inequality on risk behavior.
+  Debt among young people in Korea has soared since the COVID-19 pandemic. Aggressive investment is one of the reason for the surge. The greater the social inequality, the more important the relative position and the motivation to improve one's disadvantage is put first. With asset polarization accelerating today, young people prefer alternatives that can close social gaps in a short period of time, although the risk of loss is higher than investing in safe assets with low returns. This study considers the rapidly increasing household debt and risk assets to be caused by inequality, and aims to intensively analyze the impact of social inequality on risk behavior.
 
 ### Research Question : 
     Relative deprivation affect individual's risk preference?

@@ -14,3 +14,5 @@ This notebook aims to define the reference group using demographic and geographi
 ### Expected Effectiveness
 
 The core of this study is that behind the recent spread of risky asset investment among young people, there are psychological response mechanisms to inequality and active investment activities to improve unfavorable situations. This provide basic data on how individual will respond to inequality and may give more fundamental solution to consider the impact of unequal resource allocation on the economic system in establishing various government policies.
+
+for more [click here](https://github.com/jinwls/Relative_Deprivation_Risk_Preference/blob/main/Risk_and_RD.ipynb)

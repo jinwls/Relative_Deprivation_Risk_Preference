@@ -11,8 +11,4 @@
 
 This notebook aims to define the reference group using demographic and geographic characteristics to measure relative position of individuals within the group, and specifically analyze the effect of relative deprivation on economic preferences(risk preference) and asset retention. Through this, we will be able to draw a conclusion on the causes and characteristics of risk behavior according to the level of relative deprivation.
 
-### Expected Effectiveness
-
-The core of this study is that behind the recent spread of risky asset investment among young people, there are psychological response mechanisms to inequality and active investment activities to improve unfavorable situations. This provide basic data on how individual will respond to inequality and may give more fundamental solution to consider the impact of unequal resource allocation on the economic system in establishing various government policies.
-
 for more [click here](https://github.com/jinwls/Relative_Deprivation_Risk_Preference/blob/main/Risk_and_RD.ipynb)
